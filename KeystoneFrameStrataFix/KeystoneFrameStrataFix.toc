@@ -1,0 +1,7 @@
+## Interface: 70300
+## Title: KeystoneFrameStrataFix
+## Notes: Changes the Strata of the Keystone Frame to a higher level so it doesnt get overlapped
+## Author: Domestos aka 0110011001110101
+## Version: 1.0
+
+KeystoneFrameStrataFix.lua
